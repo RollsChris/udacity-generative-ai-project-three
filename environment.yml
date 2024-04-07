@@ -19,6 +19,7 @@ dependencies:
   - pip
   - beautifulsoup4
   - pip:
+    - diffusers
     - scikit-learn
     - peft
     - tiktoken
