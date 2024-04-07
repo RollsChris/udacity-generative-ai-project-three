@@ -1,0 +1,27 @@
+name: udacity-gen-ai
+channels:
+  - defaults
+  - pytorch
+  - nvidia
+  - anaconda 
+dependencies:
+  - python
+  - pytorch
+  - torchvision
+  - torchaudio
+  - pytorch-cuda=12.1
+  - transformers
+  - openai=0.27
+  - numpy
+  - pandas
+  - ipykernel
+  - matplotlib
+  - pip
+  - beautifulsoup4
+  - pip:
+    - scikit-learn
+    - peft
+    - tiktoken
+    - face-recognition
+    - ema_pytorch
+    - opencv-python
