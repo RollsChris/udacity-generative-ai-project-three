@@ -18,6 +18,7 @@ dependencies:
   - matplotlib
   - pip
   - beautifulsoup4
+  - gradio
   - pip:
     - diffusers
     - scikit-learn
