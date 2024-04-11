@@ -1,0 +1,34 @@
+
+SEED = 74294536
+
+image1.jpeg
+    POSITIVE:
+        A chinchilla sitting on a bed of flowers, with a horse above him sniffing him. You are able to see the air rush towards the horses nose. Realistic HD
+    NEGATIVE:
+        artifacts, low quality, distortion
+    CFGS:
+        7
+        
+image2.jpeg
+    POSITIVE:
+        A chinchilla sitting on a bed of flowers, with a horse above him sniffing him. You are able to see the air rush towards the horses nose. Realistic HD
+    NEGATIVE:
+        artifacts, low quality, distortion
+    CFGS:
+        14
+
+image3.jpeg
+    POSITIVE:
+        A chinchilla sitting on a bed of flowers, with a horse above him sniffing him. You are able to see the air rush towards the horses nose. Realistic HD
+    NEGATIVE:
+        artifacts, low quality, distortion,  white or gray horses, yellow flowers
+    CFGS:
+        14
+
+image4.jpeg
+    POSITIVE:
+        A chinchilla sitting on a bed of flowers, with a horse above him sniffing him. You are able to see the air rush towards the horses nose. Realistic HD
+    NEGATIVE:
+        artifacts, low quality, distortion,  white or gray horses, yellow flowers
+    CFGS:
+        3
